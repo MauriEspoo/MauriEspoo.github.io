@@ -8,7 +8,7 @@
 }
 img{
     width: 100px;
-    height: 100px;
+    height: 80px;
 }
 body{
   display: flex;
@@ -29,7 +29,7 @@ body{
   justify-content: center;
 }
 .cards{
-  height: 500px;
+  height: 400px;
   width: 800px;
   flex-wrap: wrap;
   justify-content: space-between;
